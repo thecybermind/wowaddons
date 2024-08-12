@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: Shift: Reagent Bank
+## Notes: Opens the Reagent Bank or second Void Storage tab directly if shift is held when talking to NPC
+## Author: cybermind
+## Version: 1.2.1
+
+ShiftReagentBank.lua

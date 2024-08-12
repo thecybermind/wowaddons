@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: PetOverlay
+## Notes: Allows you to add a pet autocast or pet stance overlay on macros
+## Version: 2.2.1
+
+PetOverlay.lua

@@ -1,0 +1,6 @@
+## Interface: 70300 
+## Title: Improved Blood Trader
+## Notes: Small QoL improvements to Blood of Sargeras and Primal Sargeras traders
+## Version: 2.2
+
+BloodTrader.lua

@@ -1,0 +1,15 @@
+## Interface: 70100
+## Title: HandyNotes_EagleFlightNetwork
+## Version: 1.0.1
+## Notes: HandyNotes plugin for Hunters which shows Eagle Flight Network flight path locations on the world map
+## Author: cybermind
+## OptionalDeps: Ace3
+## RequiredDeps: HandyNotes
+## X-Embeds: Ace3
+## SavedVariables: HandyNotes_EagleFlightNetworkDB
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+HandyNotes_EagleFlightNetwork.lua

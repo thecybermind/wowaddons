@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: StableHelper
+## Notes: Adds extra ability info to pet stable and Call Pet spell tooltips.
+## Author: cybermind
+## Version: v3.1
+
+locales.lua
+lang.enUS.lua
+StableHelper.lua

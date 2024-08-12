@@ -1,0 +1,13 @@
+## Interface: 60200
+## Title: AtlasLoot |cFF00FF99[Classes]|r
+## Notes: AtlasLoot loot tables of class and racial spells.
+## Author: cybermind	
+## Version: v2.1.1
+## Dependencies: AtlasLoot
+## LoadOnDemand: 0
+## X-AtlasLoot-LootModule: 1
+## X-AtlasLoot-ModuleName: Classes
+
+type_classesspell.lua
+atlasloot_hooks.lua
+loot.lua
