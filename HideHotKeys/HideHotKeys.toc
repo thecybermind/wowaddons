@@ -1,8 +1,0 @@
-## Interface: 90002
-
-## Title: HideHotKeys
-## Notes: Hides the hotkey text on all action buttons
-## SavedVariablesPerCharacter: HideHotKeys_HK_Hidden, HideHotKeys_MN_Hidden
-## Version: 3.0
-
-HideHotKeys.lua
